@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Esteban Maya</h1>
 <h3 align="center">A software developer trainee with a lot of capacity to learn and a lot of desire to collaborate.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=estebanma12&label=Profile%20views&color=0e75b6&style=flat" alt="estebanma12" /> </p>
-
 - 🌱 I’m currently learning **Front end development**
 
 - 📫 How to reach me **daesmapo@gmail.com**
@@ -17,5 +15,5 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EstebanMa12&show_icons=true&locale=en" alt="estebanma12" /></p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=EstebanMa12"/></a>
+<a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=EstebanMa12"/></a>
 
