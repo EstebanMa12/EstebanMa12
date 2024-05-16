@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Esteban Maya and I'm a Full Stack Developer Trainee, from Colombia</h2>
+<h2 align="left">Hi 👋! My name is Esteban Maya and I'm a Full Stack Developer, from Colombia</h2>
 
 ###
 
