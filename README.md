@@ -1,6 +1,19 @@
-<h2 align="left">Hi 👋! My name is Esteban Maya and I'm a Full Stack Developer, from Colombia</h2>
-
-###
+<h2 align="left">Hi 👋! My name is Esteban</h2>
+ <h3>👋 About Me</h1>
+  <p>👨‍⚕️ <strong>Bioengineer</strong> driven by a passion for creating technological solutions that positively impact society. My love for learning has led me to explore and work with diverse technologies, always striving to expand my horizons and innovate in meaningful ways.</p>
+  
+  <h3>🔭 Current Interests</h2>
+  <p>I am delving into the fascinating world of <strong>quantum computing</strong>, learning how this groundbreaking technology can transform computing and tackle complex problems in revolutionary ways.</p>
+  
+  <h3>💡 What Defines Me</h2>
+  <ul>
+    <li>An insatiable curiosity for learning and applying new technologies.</li>
+    <li>A focus on building tools that are both accessible and functional.</li>
+    <li>A strong interest in projects that merge technological innovation with social impact.</li>
+  </ul>
+  
+  <h3>🚀 Always Growing</h2>
+  <p>I’m constantly evolving, guided by a commitment to continuous learning and collaborating on projects that make a difference.</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EstebanMa12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
